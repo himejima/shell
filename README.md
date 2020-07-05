@@ -8,7 +8,7 @@
 
 - [拡張子がないファイルを検索したい](https://github.com/himejima/shell/blob/master/search/non-exist-file.sh)
 - [ディレクトリごとファイルの差分を見たい](https://github.com/himejima/shell/blob/master/search/diff-directory.sh)
-- [GitHubのPRでファイル一覧を取得する (doing)]
+- [GitHubのPRでファイル一覧を取得する ※ 未検証](https://github.com/himejima/shell/blob/master/search/pr-file.js)
 
 ## 文法チェック
 
